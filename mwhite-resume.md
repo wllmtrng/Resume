@@ -8,42 +8,48 @@ Michael White
 Work Experience
 ---------------
 
-*   **[Dimagi, Inc.][0]** (Cambridge, MA)
+*   **[Dimagi][0]** (Cambridge, MA)
+
+    Contractor, January 2014 - present
 
     Software Engineer, September 2012 - December 2013
 
-    -   Maintained a 10KLOC XForms designer written in vanilla JavaScript +
-        jQuery
-        -   Addressed usability pain points, added features, and fixed bugs
-        -   Maintained net negative lines of code added through extensive
+    -   Maintained a legacy user-facing JavaScript XForm designer
+        -   Addressed major usability pain points by hiding XForm implementation
+            details
+        -   Reduced code complexity and improved performance through extensive
             refactoring
-        -   Created a plugin that makes it easier to get the maximum value out
-            of Dimagi's extensions to XForms and related tools 
-    -   Added features to a large Django application for managing health data
-    -   Wrote reports for clients using CouchDB (map-reduce) and Python
+        -   Introduced a plugin system to increase modularity
+        *   Added new features, including tighter integration with Dimagi's
+            data platform
+    -   Added features to a Django application for managing health data,
+        including
+        *   a site navigation framework that abstracted a variety of existing
+            elements and behaviors
+        *   a UI for viewing individual records that allows declarative custom
+            layouts for specific types
+        *   a system for saving and emailing specific versions of reports
+    -   Wrote reports for clients using CouchDB (map-reduce)
 
-*   **[GetchaBooks LLC][1]** (Medford, MA)
+*   **[GetchaBooks][1]** (Medford, MA)
 
     Co-Founder, 2010 - 2012
 
-    -   Created a website that lets college students specify their courses and
-        find the best way to buy their textbooks online
-    -   Wrote a 20KLOC backend using PHP, Propel ORM, and MySQL
-    -   Designed a generic architecture for harvesting course and book data
-        from college bookstore chain websites
-        -   wrote JavaScript and cookie-aware scrapers
-        -   optimized for both mass harvesting and on-demand lookup
-    -   Implemented online bookseller integration and price comparison algorithms
+    -   Created a site that let college students select their courses and find
+        the best way to buy their required books online
+    -   Wrote the backend using PHP, Propel ORM, and MySQL
+    -   Wrote scrapers for college bookstore chain websites as part of a generic
+        scraping system with batch and on-demand scraping support
+    -   Wrote a price comparison algorithm that accounts for variable shipping
+        costs
 
 *   **[AIFB, Karlsruhe Institute of Technology][2]** (Remote)
 
     Student Research Assistant, June 2010 - August 2010
 
-    -   Wrote [AskQ][3], a Semantic MediaWiki extension that uses known
-        structured data to interpret plain-text queries as structured semantic
-        queries
-    -   Added a faceted browsing interface on top of Semantic MediaWiki's
-        built-in semantic search results page
+    -   Wrote a Semantic MediaWiki extension that used existing data to
+        interpret plain-text queries as structured queries, and added faceted
+        browsing to the built-in search results interface
 
  [0]: http://www.dimagi.com
  [1]: http://www.getchbooks.com
@@ -60,10 +66,9 @@ Education
 Skills
 ------
 
-*   Developing modular, high-performance web application backends
+*   Modular application development, API design, data architecture
 
-*   Python, PHP, JavaScript, jQuery, SQL, CouchDB, HTML, CSS, C, git, vim
+*   Python (Django, Flask), JavaScript (jQuery, Knockout), PHP, C, SQL, git,
+    Linux, and others
 
-*   Knowledgeable about theoretical and computational linguistics
-
-*   Proficient in German, familiar with Spanish
+*   Familiar with theoretical linguistics, German, Spanish
