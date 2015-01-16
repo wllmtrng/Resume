@@ -19,7 +19,7 @@ Work Experience
     -  Successfully demonstrated during trials with 9 direct hits involving static, accelerating, weaving, fast and very fast remotely controlled targets
 
 * *MQ-1 USAF UAV Team*, Sept 2011 - April 2012 (Under Contract), April 2012 - Oct 2013
-    -  Developed enhancements and resolved known anomalies in forward looking development branch that eventually made way to several software releases for multiple customers [C/C++]
+    -  Developed enhancements and resolved known anomalies in forward looking development branch that eventually made way to several software releases for multiple customers **[C/C++]**
 
 **Software Engineer II, Northrop Grumman Information Systems**, Jan 2009 -  Sept 2011, (Sacramento, CA)
 
