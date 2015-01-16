@@ -1,71 +1,41 @@
-Markdown Resumé
-===============
+William Truong
+================
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
-
+will.truong@outlook.com•408-598-7306
 
 Work Experience
 ---------------
+**Software Developer II, GA-ASI**, 2011 - present, (San Diego, CA)
 
-*   **Word Processor** (Redmond, WA)
+* *Responsibilities*
+    - Work with project engineers, vendors, and customer to create system and software level requirements, storyboard proposals for new features, define new software interfaces, write system test procedures, and implement design for hard real time flight and soft real time ground components on MQ-1/MQ-9 Unmanned Aerial Systems **[C/C++, Python, POSIX, Linux, VxWorks, MIL-STD-1553, TCP/IP, Pthreads, Qt, X11/Motif, XML]**
 
-    Junior Resumé Maker, 2006 - 2007
+* *MQ-9 AFSOC Software Team*, Jan 2014 - present
+    - Lead software developer of new team formed to increase MQ-9's multi-mission capabilities in regards to increased flight endurance, decreased takeoff time, additional weapon support, and new ISR platforms for Air Force Special Operations Command.
+    - Within one year, the software team fielded 3 major system releases under 6 month release cycles, an unprecedented number for the existing software groups supporting the US Air Force, which currently run on 3-5 year software release cycles.
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+* *MQ-9 Brimstone Integration*, Oct 2013 - Dec 2014
+    -  Lead a software team to demonstrate the potential capabilities of integrating MBDA's missile platform onto the MQ-9 platform in a short span of 3 months.
+    -  Sucessfully demonstrated during trials with 9 direct hits involving static, accelerating, weaving, fast and very fast remotely controlled targets.
 
-*   **\LaTeX\ + pdflatex**
+* *MQ-1 USAF UAV Team*, Oct 2011 - April 2012 (Under Contract), April 2012 - Oct 2013
+    -  Developed enhancements and resolved known anomalies in forward looking development branch that eventually made way to several software releases for multiple customers [C/C++]
 
-    Senior Resumé Maker, 2008 - 2010
+**Software Engineer II, Northrop Grumman Information Systems**, 2009 - 2011, (Sacramento, CA)
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+* *Software Lead for ELINT (ELectronical INTelligence) Subsystem*, Jan 2011 - Oct 2011
+    - Worked closely with program management, system engineers, electrical engineers, sensor operators, and integration team to field the last release of the ELINT subsystem.
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    Web Resumé Intern, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+* *Software Engineer for ELINT (ELectronical INTelligence) Subsystem*, Jan 2009 - Jan 2011
+    - Aided senior software engineer in developing Linux PCI kernel served to communicate with FPGA daughter card that commanded the ELINT sensors **[C, Linux Kernel, MIL-STD-1553]**
+    - Thread-safed proprietary event-driven messaging interface used by subsystem to allow for the development of multi-threaded applications **[C, Pthreads, TCP/IP, DNS-SD]**
+    - Developed an event-driven server daemon that resided on subsystem responsible for initialization and rerouting of messages between air and ground components **[C++]**
+    - Developed and documented command line test utility for electrical, test, and field engineers to verify and validate subsystem hardware **[C, yacc, lex]**
 
 Education
 ---------
+B.S., Computer Science, University Of California, Davis, 2009
 
-*   **Github University** (World Wide Web)
-
-    B.S. in Submodules, May 2012
-
-
-Skills
+Skills 
 ------
-
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
-
+C++, C, Python, Java, TCP/IP, MIL-STD-1553, Motif, Qt, Android, VxWorks, LINUX, POSIX (Pthreads, cstdlib, sockets), STL, yacc, lex, Git, SVN, Clearcase
