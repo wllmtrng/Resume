@@ -12,23 +12,23 @@ Work Experience
 
 * *MQ-9 AFSOC Software Team*, Jan 2014 - present
     - Lead software developer of new team formed to increase MQ-9's multi-mission capabilities in regards to increased flight endurance, decreased takeoff time, additional weapon support, and new ISR platforms for Air Force Special Operations Command.
-    - Within one year, the software team fielded 3 major system releases under 6 month release cycles, an unprecedented number for the existing software groups supporting the US Air Force, which currently run on 3-5 year software release cycles.
+    - Within one year, software team fielded 3 major system releases under 6 month release cycles, an unprecedented number for existing software groups supporting US Air Force, which currently run on 3-5 year software release cycles.
 
 * *MQ-9 Brimstone Integration*, Oct 2013 - Dec 2014
-    -  Lead a software team to demonstrate the potential capabilities of integrating MBDA's missile platform onto the MQ-9 platform in a short span of 3 months.
-    -  Sucessfully demonstrated during trials with 9 direct hits involving static, accelerating, weaving, fast and very fast remotely controlled targets.
+    -  Lead a software team to demonstrate potential capabilities of integrating MBDA's missile platform onto MQ-9 platform in a short span of 3 months.
+    -  Successfully demonstrated during trials with 9 direct hits involving static, accelerating, weaving, fast and very fast remotely controlled targets.
 
-* *MQ-1 USAF UAV Team*, Oct 2011 - April 2012 (Under Contract), April 2012 - Oct 2013
+* *MQ-1 USAF UAV Team*, Sept 2011 - April 2012 (Under Contract), April 2012 - Oct 2013
     -  Developed enhancements and resolved known anomalies in forward looking development branch that eventually made way to several software releases for multiple customers [C/C++]
 
-**Software Engineer II, Northrop Grumman Information Systems**, 2009 - 2011, (Sacramento, CA)
+**Software Engineer II, Northrop Grumman Information Systems**, Jan 2009 -  Sept 2011, (Sacramento, CA)
 
-* *Software Lead for ELINT (ELectronical INTelligence) Subsystem*, Jan 2011 - Oct 2011
-    - Worked closely with program management, system engineers, electrical engineers, sensor operators, and integration team to field the last release of the ELINT subsystem.
+* *Software Lead for ELINT (ELectronic INTelligence) Subsystem*, Jan 2011 - Sept 2011
+    - Worked closely with program management, system engineers, electrical engineers, sensor operators, and integration team to field last release of ELINT subsystem under Guardrail Modernization contract.
 
-* *Software Engineer for ELINT (ELectronical INTelligence) Subsystem*, Jan 2009 - Jan 2011
-    - Aided senior software engineer in developing Linux PCI kernel served to communicate with FPGA daughter card that commanded the ELINT sensors **[C, Linux Kernel, MIL-STD-1553]**
-    - Thread-safed proprietary event-driven messaging interface used by subsystem to allow for the development of multi-threaded applications **[C, Pthreads, TCP/IP, DNS-SD]**
+* *Software Engineer for ELINT Subsystem*, Jan 2009 - Jan 2011
+    - Aided senior software engineer in developing Linux PCI kernel served to communicate with FPGA daughter card that commanded ELINT sensors **[C, Linux Kernel, MIL-STD-1553]**
+    - Thread-safed proprietary event-driven messaging interface used by subsystem to allow for development of multi-threaded applications **[C, Pthreads, TCP/IP, DNS-SD]**
     - Developed an event-driven server daemon that resided on subsystem responsible for initialization and rerouting of messages between air and ground components **[C++]**
     - Developed and documented command line test utility for electrical, test, and field engineers to verify and validate subsystem hardware **[C, yacc, lex]**
 
