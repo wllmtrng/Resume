@@ -1,6 +1,11 @@
+# Resume [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/mwhite/resume/raw/master/resume.pdf)
+
 This is a simple Markdown resumé template, LaTeX header, and pre-processing
-script that can be used with [Pandoc](http://johnmacfarlane.net/pandoc/) to
-create professional-looking PDF and HTML output.
+script that can be used with [Pandoc](http://johnmacfarlane.net/pandoc/) to generate
+professional-looking PDF and HTML output.
+
+The Markdown flavor supported is
+[Pandoc markdown](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown).
 
 ## Dependencies
 
@@ -14,6 +19,9 @@ sudo apt-get install texlive texlive-latex-extra tex-gyre
 ```
 
 ## Usage
+
+Clone the repo and create a new branch with a different Markdown file for your
+resumé.
 
 To generate PDF and HTML versions of each .md file in the directory:
 
