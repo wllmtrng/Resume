@@ -95,7 +95,7 @@ def tex(lines, contact_lines, *args):
         line = re.sub(r"<(http.+?)>", r"\url{\1}", line)
         return re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\href{\2}{\1}", line)
 
-    contact_lines = "\n\n".join(map(replace_links, contact_lines))
+    contact_lines = "\\\\\n".join(map(replace_links, contact_lines))
 
     # replacements to apply to the text in contact_lines, because it won't be
     # processed by pandoc

@@ -1,35 +1,38 @@
 William Truong
 ================
 
-wtruong424@gmail.com•San Francisco Bay Area•408-598-7306
+408-598-7306 • [wtruong424@gmail.com](wtruong424@gmail.com) • [LinkedIn](https://www.linkedin.com/in/william-truong-b1672910)
 
-Senior Software Engineer looking to be part of an essential team building the
-next generation of products and services utilizing machine learning and data
-science. 
-
-Certifications
----------
-Data Analyst Nanodegree, Udacity, Expected Jan 2016  
-Machine Learning Specialization, Coursera, Expected April 2016
+*Senior Software Engineer with 6+ years experience in overseeing, designing, implementing,
+and reviewing software components. Accustomed with working under hard deadlines
+and system constraints. Motivated in learning and using new technologies and
+methodologies, with a current interest in **Machine Learning** and **Data Science**.*
 
 Technical Skills
 -----------------
-**Python**: pandas, scikit-learn, numpy, matplotlib  
+**Python**: pandas, scikit-learn, numpy, matplotlib, graphlab  
 **C/C++**: STL, POSIX (Pthreads, cstdlib, sockets), VxWorks, LINUX, yacc, lex  
-**R**: ggplot2, dplyr, data.table  
+**R**: ggplot2, dplyr 
 **Tools/Frameworks**: MongoDB, Git, SVN  
 
 Projects
 --------
+**Identifying Persons of Interest in the Enron Scandal**, (In Process)
+
+* Use PCA and supervised learning methods to gain insight on the employees who
+ took part in the Enron scandal, using the publicly available Enron email dataset
+ and employee financial records. **[python, pandas, scikit-learn, matplotlib]**
+ 
 **[Exploratory Data Analysis: Capital Bikeshare Program in Washington, D.C.](http://tinyurl.com/z23vm4l)**, Nov 2015
 
 * Investigated the possibility of using linear regression to predict the number
 of bikeshare usage for a given hour and day of the week using cross referenced
-weather information.
+weather information. **[R, ggplot2, dplyr]**
 
 Work Experience
 ---------------
-**Senior Software Engineer, GA-ASI**, Sept 2011 - Apr 2015, (San Diego, CA)
+Senior Software Engineer  
+**General Atomics Aeronautical Systems Inc.**, Sept 2011 - Apr 2015, (San Diego, CA)
 
 * Responsibilities
     - Work with project engineers, vendors, and customer to create system and
@@ -41,11 +44,11 @@ Work Experience
     Pthreads, Qt, X11/Motif, XML]**
 
 * Accomplishments
-    - MQ-9 AFSOC Software Team, Jan 2014 - Apr 2015
-        - One of two software leads in a new team of 10+ formed to increase
+    - MQ-9 Air Force Special Operations Command Software Team (AFSOC), Jan 2014 - Apr 2015
+        - One of two software leads in a new team of 10+, formed to increase
         MQ-9's multi-mission capabilities in regards to increased flight
         endurance, decreased takeoff time, additional weapon support,
-        and new ISR platforms for Air Force Special Operations Command
+        and new ISR platforms for AFSOC
         - Within one year, software team fielded 3 major system releases under
         6 month release cycles, as opposed to the previous team working on the
         traditional 1-2 year release cycle
@@ -64,12 +67,13 @@ Work Experience
            static, accelerating, weaving, fast and very fast remotely
            controlled targets
 
-    - MQ-1 USAF UAV Team, Sept 2011 - April 2012 (Under Contract), April 2012 - Oct 2013
+    - MQ-1 US Air Force UAV Team, Sept 2011 - April 2012 (Under Contract), April 2012 - Oct 2013
         -  Developed enhancements and resolved known anomalies in forward
            looking development branch that eventually made way to several
            software releases for multiple customers **[C/C++]**
 
-**Software Engineer, Northrop Grumman Information Systems**, Jan 2009 - Sept 2011, (Sacramento, CA)
+Software Engineer  
+**Northrop Grumman Information Systems**, Jan 2009 - Sept 2011, (Sacramento, CA)
 
 * Software Lead for ELINT (ELectronic INTelligence) Subsystem, Jan 2011 - Sept 2011
     - As a software lead worked closely with program management, 
@@ -91,6 +95,16 @@ Work Experience
     test, and field engineers to verify and validate subsystem hardware
     **[C, yacc, lex]**
 
+Certifications
+---------
+**Machine Learning Specialization**, *Coursera*, Expected April 2016
+
+  - Regression, Classification, Clustering & Retrieval, Recommender Systems & Dimensionality
+
+**Data Analyst Nanodegree**, *Udacity*, Expected Jan 2016  
+
+  - Data Munging, Exploratory Data Analysis, Classification, Data Visualization, A/B Testing
+
 Education
 -----------
-B.S., Computer Science, University Of California, Davis, 2009
+**B.S., Computer Science**, *University Of California, Davis*, 2009
