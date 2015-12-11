@@ -15,6 +15,9 @@ html:  clean $(HTML)
 %.pdf:  %.md $(LATEX_TEMPLATE)
 	python resume.py tex < $< | pandoc $(PANDOCARGS) --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
+%.tex:  %.md $(LATEX_TEMPLATE)
+	python resume.py tex < $< | pandoc $(PANDOCARGS) --template=$(LATEX_TEMPLATE) -H header.tex -o $@
+
 ifeq ($(OS),Windows_NT)
   # on Windows
   RM = cmd //C del

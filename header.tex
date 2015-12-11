@@ -1,4 +1,4 @@
-\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\usepackage[top=1in, bottom=1in, left=.5in, right=.5in]{geometry}
 \usepackage{tgpagella}
 \ifxetex
   \usepackage{xeCJK}
@@ -8,8 +8,14 @@
 
 \usepackage{titlesec}
 \titleformat{\section}{\huge\bfseries}{\thesection}{1em}{}
-\titlespacing{\section}{0pt}{-2em}{1em}
+\titlespacing{\section}{0pt}{-4em}{1em}
+\titlespacing{\subsection}{0pt}{0em}{0em}
 \titleformat{\subsection}{\large\bfseries\MakeUppercase}{\thesubsection}{1em}{}
+
+% Customize bullets
+\usepackage{enumitem}
+\setlist{nolistsep,leftmargin=1em}
+\setlist[itemize,2]{leftmargin=2em}
 
 %\usepackage{multicol}
 \pagestyle{empty}
@@ -28,3 +34,6 @@
   {\par\vss\egroup\ht\zerobox=0pt \wd\zerobox=0pt \dp\zerobox=0pt
    \box\zerobox}
 
+\hypersetup{
+    colorlinks = true
+}
