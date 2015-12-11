@@ -12,7 +12,7 @@ Technical Skills
 -----------------
 **Python**: pandas, scikit-learn, numpy, matplotlib, graphlab  
 **C/C++**: STL, POSIX (Pthreads, cstdlib, sockets), VxWorks, LINUX, yacc, lex  
-**R**: ggplot2, dplyr 
+**R**: ggplot2, dplyr  
 **Tools/Frameworks**: MongoDB, Git, SVN  
 
 Projects
