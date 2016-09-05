@@ -1,45 +1,67 @@
 William Truong
 ================
 
-408-598-7306 • [wtruong424@gmail.com](wtruong424@gmail.com) • [LinkedIn](https://www.linkedin.com/in/william-truong-b1672910)
+408-598-7306 • [wtruong424@gmail.com](wtruong424@gmail.com) • [LinkedIn](https://www.linkedin.com/in/william-truong-b1672910) • [github](https://github.com/wllmtrng)
 
-*Senior Software Engineer with 6+ years experience in overseeing, designing, implementing,
-and reviewing software components. Accustomed with working under hard deadlines
-and system constraints. Motivated in learning and using new technologies and
+*Senior Software Engineer, 6+ years experience, with a penchant for building expressive
+and performant software using functional and object oriented principles under
+system constraints. Always motivated to learn and use new technologies and
 methodologies, with a current interest in **Machine Learning** and **Data Science**.*
 
 Technical Skills
 -----------------
+**Node.js**: express, lodash, ES6, async.js, bluebird  
 **Python**: pandas, scikit-learn, numpy, matplotlib, graphlab  
-**C/C++**: STL, POSIX (Pthreads, cstdlib, sockets), VxWorks, LINUX, yacc, lex  
-**R**: ggplot2, dplyr  
-**Tools/Frameworks**: MongoDB, Git, SVN  
+**Other**: Elasticsearch, Java, Java 8 Streams, R, ggplot2, dplyr, data.table, MongoDB
 
 Projects
 --------
-**Identifying Persons of Interest in the Enron Scandal**, (In Process)
+**[Udacity Data Analyst Nanodegree](https://github.com/wllmtrng/udacity_data_analyst_nanodegree)**  
+**Udacity**, August 2015 - August 2016
 
-* Use PCA and supervised learning methods to gain insight on the employees who
- took part in the Enron scandal, using the publicly available Enron email dataset
- and employee financial records. **[python, pandas, scikit-learn, matplotlib]**
+* [Occupations and their Prosper Score](http://bl.ocks.org/wllmtrng/raw/ff72bf455078448e5e40ece3bff15354/), August 2016,
+
+    - D3.js visualization showing the relationship between occupations and Prosper Score (2009-2014) **[d3.js, R, ggplot2, python]**
+
+* [Identifying Persons of Interest in the Enron Scandal](https://github.com/wllmtrng/udacity_data_analyst_nanodegree/tree/master/P5%20sklearn%20ML), July 2016,
+
+    - Use PCA, Gaussian Naive Bayes, and Decision Trees to gain insight on the employees who
+    took part in the Enron scandal, using the publicly available Enron email dataset
+    and employee financial records **[python, pandas, scikit-learn, matplotlib]**
  
-**[Exploratory Data Analysis: Capital Bikeshare Program in Washington, D.C.](http://tinyurl.com/z23vm4l)**, Nov 2015
+* [Exploratory Data Analysis: Capital Bikeshare Program in Washington, D.C.](http://tinyurl.com/z23vm4l), Nov 2015
 
-* Investigated the possibility of using linear regression to predict the number
-of bikeshare usage for a given hour and day of the week using cross referenced
-weather information. **[R, ggplot2, dplyr]**
+    - Investigated the possibility of using linear regression to predict the number
+    of bikeshare usage for a given hour and day of the week using cross referenced
+    weather information **[R, ggplot2, dplyr]**
 
 Work Experience
 ---------------
+R&D Software Engineer  
+**Fluid Inc.**, Feb 2016 - Present, (San Francisco, CA)
+
+* Building the first SaaS application utilizing NLP technology and Machine Learning
+techniques that aims to provide online retailers with a service that provides customers
+with intelligent product recommendations by conversation. Current customers include
+[1800flowers.com](https://www.1800flowers.com/gwyn-1800flowers) and 
+[The North Face](http://www.thenorthface.com/xps) **[Node.js (Express), Java 8, ElasticSearch]**
+    - Working with 6 software engineers on a 1 week sprint to continuously deliver under AWS
+    infrastructure **[EC2, S3, CloudFormation, CloudWatch, ElasticSearch]** 
+    - Build RESTful Web Services under Express for implementation team to utilize **[Node.js, Express]**
+    - Conceptualized into production the use of ElasticSearch to take advantage of
+    Lucene's abilities in handling unstructured text and relevance scoring
+    - Created a SGD classifier with text input to characterize products for implementation team
+    to use on customer datasets **[pandas]**
+
 Senior Software Engineer  
 **General Atomics Aeronautical Systems Inc.**, Sept 2011 - Apr 2015, (San Diego, CA)
 
 * Responsibilities
-    - Work with project engineers, vendors, and customer to create system and
+    - Work with project engineers, vendors, and customers to create system and
     software level requirements, storyboard proposals for new features, define
     new software interfaces, write system test procedures,
-    and implement design for hard real time flight and soft real time ground
-    components on Unmanned Aerial Systems 
+    and implement software for reusuable flight and ground components in several
+    unmanned aerial systems under the service oriented architecture paradigm
     **[C/C++, Python, POSIX, Linux, VxWorks, MIL-STD-1553, TCP/IP,
     Pthreads, Qt, X11/Motif, XML]**
 
@@ -52,9 +74,9 @@ Senior Software Engineer
         - Within one year, software team fielded 3 major system releases under
         6 month release cycles, as opposed to the previous team working on the
         traditional 1-2 year release cycle
-        - Main developer on a personally initiated effort to refactor a flawed
+        - Spearheaded effort to refactor by using MVC and OO principles, a flawed
         design with the touch system responsible for multiplexing mission
-        critical video sources on the ground control system
+        critical video sources on the ground control system.
         **[Linux, POSIX sockets, sigslot, X11/motif, C/C++]**
         - Main system release was named as a finalist in Aviation Week Program
         of Excellence Awards, 2015.
@@ -97,11 +119,11 @@ Software Engineer
 
 Certifications
 ---------
-**Machine Learning Specialization**, *Coursera*, Expected April 2016
+**[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)**, *Coursera*, Expected Dec 2016
 
   - Regression, Classification, Clustering & Retrieval, Recommender Systems & Dimensionality
 
-**Data Analyst Nanodegree**, *Udacity*, Expected Jan 2016  
+**[Data Analyst Nanodegree](https://github.com/wllmtrng/udacity_data_analyst_nanodegree)**, *Udacity*, Aug 2016 
 
   - Data Munging, Exploratory Data Analysis, Classification, Data Visualization, A/B Testing
 
