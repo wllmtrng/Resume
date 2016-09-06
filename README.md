@@ -127,6 +127,8 @@ Certifications
 
   - Data Munging, Exploratory Data Analysis, Classification, Data Visualization, A/B Testing
 
+**[Machine Learning](https://www.coursera.org/account/accomplishments/records/9TD6VCPP7TAC)**, *Stanford University on Coursera*, Jan 2016
+
 Education
 -----------
 **B.S., Computer Science**, *University Of California, Davis*, 2009
