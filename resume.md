@@ -40,14 +40,14 @@ Work Experience
 R&D Software Engineer  
 **Fluid Inc.**, Feb 2016 - Present, (San Francisco, CA)
 
-* Building the first e-commerce SaaS solution utilizing NLP technology and Machine Learning
-techniques that aims to provide online retailers with a service that provides customers
-with intelligent product recommendations by conversation. Current customers include
+* Currently building Fluid Expert Personal Shopper (XPS), the first e-commerce SaaS solution utilizing NLP 
+technology and Machine Learning techniques that aims to provide online retailers with a service that provides 
+customers with intelligent product recommendations by conversation. Current customers include
 [1800flowers.com](https://www.1800flowers.com/gwyn-1800flowers) and 
 [The North Face](http://www.thenorthface.com/xps) **[Node.js (Express), Java 8, ElasticSearch]**
-    - Working with 6 software engineers on a 1 week sprint to continuously deliver under AWS
+    - Work with 6 software engineers on a 1 week sprint to continuously deliver under AWS
     infrastructure **[EC2, S3, CloudFormation, CloudWatch, ElasticSearch]** 
-    - Build RESTful Web Services under Express for implementation team to utilize **[Node.js, Express]**
+    - Build RESTful web services under Express for implementation team to utilize **[Node.js, Express]**
     - Conceptualized into production the use of ElasticSearch to take advantage of
     Lucene's abilities in handling unstructured text and relevance scoring
     - Created a SGD classifier with text input to characterize products for implementation team
@@ -57,7 +57,7 @@ Senior Software Engineer
 **General Atomics Aeronautical Systems Inc.**, Sept 2011 - Apr 2015, (San Diego, CA)
 
 * Responsibilities
-    - Work with project engineers, vendors, and customers to create system and
+    - Worked with project engineers, vendors, and customers to create system and
     software level requirements, storyboard proposals for new features, define
     new software interfaces, write system test procedures,
     and implement software for reusuable flight and ground components in several
