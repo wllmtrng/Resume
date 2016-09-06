@@ -1,10 +1,12 @@
 SRC = $(wildcard *.md)
 
-PDFS=$(SRC:.md=.pdf)
-HTML=$(SRC:.md=.html)
+# PDFS=$(SRC:.md=.pdf)
+# HTML=$(SRC:.md=.html)
+PDFS=resume.pdf
+HTML=resume.html
 LATEX_TEMPLATE=./pandoc-templates/default.latex
 
-all:    clean $(PDFS) $(HTML)
+all:    clean $(PDFS) $(HTML) README.md
 
 pdf:   clean $(PDFS)
 html:  clean $(HTML)
@@ -18,6 +20,8 @@ html:  clean $(HTML)
 %.tex:  %.md $(LATEX_TEMPLATE)
 	python resume.py tex < $< | pandoc $(PANDOCARGS) --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
+README.md: resume.md
+	cp $< $@
 ifeq ($(OS),Windows_NT)
   # on Windows
   RM = cmd //C del
@@ -27,7 +31,7 @@ else
 endif
 
 clean:
-	$(RM) *.html *.pdf
+	$(RM) *.html *.pdf README.md
 
 $(LATEX_TEMPLATE):
 	git submodule update --init
