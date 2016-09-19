@@ -5,14 +5,15 @@ William Truong
 
 *Senior Software Engineer, 6+ years experience, with a penchant for building expressive
 and performant software using functional and object oriented principles under
-system constraints. Always motivated to learn and use new technologies and
-methodologies, with a current interest in **Machine Learning** and **Data Science**.*
+system constraints. Understands that code is read more than it's written or changed.
+Always motivated to learn and use new technologies and methodologies, with a current interest
+in **Machine Learning** and **Data Science**.*
 
 Technical Skills
 -----------------
 **Node.js**: express, lodash, ES6, async.js, bluebird  
 **Python**: pandas, scikit-learn, numpy, matplotlib, graphlab  
-**Other**: Elasticsearch, Java, Java 8 Streams, R, ggplot2, dplyr, data.table, MongoDB
+**Other**: Elasticsearch, Java, Java 8 Streams, R, ggplot2, dplyr, data.table, jupyter, MongoDB
 
 Projects
 --------
@@ -21,13 +22,13 @@ Projects
 
 * [Occupations and their Prosper Score](http://bl.ocks.org/wllmtrng/raw/ff72bf455078448e5e40ece3bff15354/), August 2016,
 
-    - D3.js visualization showing the relationship between occupations and Prosper Score (2009-2014) **[d3.js, R, ggplot2, python]**
+    - D3.js visualization showing the relationship between occupations and Prosper Score (2009-2014) **[d3.js, R, ggplot2, python, jupyter]**
 
 * [Identifying Persons of Interest in the Enron Scandal](https://github.com/wllmtrng/udacity_data_analyst_nanodegree/tree/master/P5%20sklearn%20ML), July 2016,
 
     - Use PCA, Gaussian Naive Bayes, and Decision Trees to gain insight on the employees who
     took part in the Enron scandal, using the publicly available Enron email dataset
-    and employee financial records **[python, pandas, scikit-learn, matplotlib]**
+    and employee financial records **[python, pandas, scikit-learn, matplotlib, jupyter]**
  
 * [Exploratory Data Analysis: Capital Bikeshare Program in Washington, D.C.](http://tinyurl.com/z23vm4l), Nov 2015
 
@@ -41,17 +42,17 @@ R&D Software Engineer
 **Fluid Inc.**, Feb 2016 - Present, (San Francisco, CA)
 
 * Currently building Fluid Expert Personal Shopper (XPS), the first e-commerce SaaS solution utilizing NLP 
-technology and Machine Learning techniques that aims to provide online retailers with a service that provides 
+and Machine Learning techniques that aims to provide online retailers with a service that provides 
 customers with intelligent product recommendations by conversation. Current customers include
 [1800flowers.com](https://www.1800flowers.com/gwyn-1800flowers) and 
-[The North Face](http://www.thenorthface.com/xps) **[Node.js (Express), Java 8, ElasticSearch]**
+[The North Face](http://www.thenorthface.com/xps) **[Node.js (Express), Java 8, ElasticSearch, TinkerPop]**
     - Work with 6 software engineers on a 1 week sprint to continuously deliver under AWS
     infrastructure **[EC2, S3, CloudFormation, CloudWatch, ElasticSearch]** 
     - Build RESTful web services under Express for implementation team to utilize **[Node.js, Express]**
     - Conceptualized into production the use of ElasticSearch to take advantage of
     Lucene's abilities in handling unstructured text and relevance scoring
     - Created a SGD classifier with text input to characterize products for implementation team
-    to use on customer datasets **[pandas]**
+    to use on customer datasets **[pandas, scikit-learn, jupyter]**
 
 Senior Software Engineer  
 **General Atomics Aeronautical Systems Inc.**, Sept 2011 - Apr 2015, (San Diego, CA)
