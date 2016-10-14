@@ -3,7 +3,7 @@ William Truong
 
 408-598-7306 • [wtruong424@gmail.com](wtruong424@gmail.com) • [LinkedIn](https://www.linkedin.com/in/william-truong-b1672910) • [github](https://github.com/wllmtrng)
 
-*Senior Software Engineer, 6+ years experience, with a penchant for building expressive
+*Senior Software Engineer, 7+ years experience, with a penchant for building expressive
 and performant software using functional and object oriented principles under
 system constraints. Understands that code is read more than it's written or changed.
 Always motivated to learn and use new technologies and methodologies, with a current interest
