@@ -34,9 +34,9 @@ Work and Academic Experience
 Senior Software Engineer  
 **Health Fidelity**, Oct 2016 - Present, (San Mateo, CA)
 
-* Build HIPAA compliant RESTful web services under the the **Spring Framework** to assist healthcare organizations
-improve their risk adjustment performance by providing revenue opportunities based on KPI dashboards, maps, graphs,
-and reports, under the AWS ecosystem **[Java, JDBC, MySQL, Scala, Spark, Kafka, S3, EMR, CloudFormation]**
+* Build HIPAA compliant RESTful web services under the the **Spring Framework** to assist healthcare
+organizations improve their risk adjustment performance by providing revenue opportunities based on KPI
+dashboards, maps, graphs, and reports, under the AWS ecosystem **[Java, JDBC, MySQL, Scala, Spark, Kafka, S3, EMR, CloudFormation]**
     - Key contributor to Risk Analytics team spearheading effort to transition existing data aggregation and batch
     processing functionality under **Java, JDBC, and MySQL** to a more scalable, distributed approach with
     **Scala and Apache Spark** to decrease costs and address business need of generating larger reports under a
@@ -52,8 +52,6 @@ time events using **Kafka** infrastructure recently rolled out by infrastructure
     progress and productivity.
     - Work very closely with architect and infrastructure team to ensure new Kafka cluster and event infrastructure is ready
     for production by providing constructive feedback from downstream consumer's point of view.
-    - Laid the groundwork for Risk Analytics team to leverage stream processing capabilities for analytics when business
-    need arises
 * Applied prior working knowledge with bitsets and bitwise logic as an embedded systems engineer to speed up
   rule matching behavior to take only .05 percent of original time.
 
@@ -61,10 +59,8 @@ R&D Software Engineer
 **Fluid**, Feb 2016 - Sept 2016, (San Francisco, CA)
 
 * Part of Fluid Expert Personal Shopper (XPS), the first e-commerce SaaS solution aimed to supply online
-retailers with a service recommending products to customers through conversation by utilizing NLP
+retailers with a service recommending products to customers ([1800flowers.com](https://www.1800flowers.com/gwyn-1800flowers), [The North Face](http://www.thenorthface.com/xps)) through conversation by utilizing NLP
 and Machine Learning techniques **[Node.js (Express), Java 8, ElasticSearch, TinkerPop, EC2, S3, CloudFormation, CloudWatch, ElasticSearch]**
-    - Customers included [1800flowers.com](https://www.1800flowers.com/gwyn-1800flowers)
-      and [The North Face](http://www.thenorthface.com/xps)
     - Built RESTful web services under Express for implementation team to interface with **[Node.js, Express]**
     - Conceptualized into production the use of ElasticSearch to take advantage of Lucene's abilities in handling unstructured
     text and relevance scoring
@@ -97,12 +93,11 @@ and ground components in several unmanned aerial systems under the service orien
         and new ISR platforms for AFSOC.
         - Within one year, software team fielded 3 major system releases under
         6 month release cycles, as opposed to previous team working on
-        traditional 1-2 year release cycle
+        traditional 1-2 year release cycle, with one release being a finalist in Aviation Week Program
+        of Excellence Awards, 2015.
         - Spearheaded effort to refactor a flawed design with touch system responsible for multiplexing mission
         critical video sources on ground control system by using MVC and OO principles.
         **[Linux, POSIX sockets, sigslot, X11/motif, C/C++]**
-        - Main system release was named as a finalist in Aviation Week Program
-        of Excellence Awards, 2015.
     - MQ-9 Brimstone Demonstration, Oct 2013 - Dec 2014
         -  Lead a software team to demonstrate potential capabilities of
            integrating MBDA's missile platform onto MQ-9 platform in a short
@@ -119,9 +114,9 @@ Software Engineer
     Guardrail Modernization contract **[C/C++, Pthreads, TCP/IP, DNS-SD, yacc, lex]**.
 
 * Software Engineer for ELINT Subsystem, Jan 2009 - Jan 2011
-    - Create and maintain applications under the service oriented architecture paradigm to allow sensors on
-    multiple aircraft to survey, collect, and aggregate data in real time through
-    line of sight communications
+    - Create and maintain applications under the service oriented architecture
+    paradigm to allow sensors on multiple aircraft to survey, collect, and aggregate data
+    in real time through line of sight communications
 
 Education
 -----------
