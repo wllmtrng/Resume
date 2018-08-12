@@ -5,7 +5,7 @@ William Truong
 
 *Technical Lead Manager, 9+ years experience, with penchant for building expressive and performant software using functional and object oriented principles under system constraints to address business needs. Understands that code is read more than it's written or changed.*
 
-*Currently lead Risk Analytics team into building data pipelines using Apache Spark to perform speedy batch aggregations for reports, and Apache Kafka + Vertica to fuel near real-time dashboards.*
+*Currently leading Risk Analytics team into building data pipelines using Apache Spark to perform speedy batch aggregations for reports, and Apache Kafka + Vertica to fuel near real-time dashboards.*
 
 *Working closely along with product managers to launch new business driven functionalities, while maintaining existing products.*
 
