@@ -19,7 +19,7 @@ Work and Academic Experience
 
 **Health Fidelity, San Mateo, CA**,  
 Technical Lead Manager (Jan 2018 - Present)  
-Senior Software Engineer (Oct 2016 - Dec 2018)   
+Senior Software Engineer (Oct 2016 - Dec 2017)   
 
 * Leading Risk Analytics team in designing and building out API to allow physicians to automatically get a list of probable diagnoses for a given patient, given past billing history and clinical notes, by providing a queryable **GraphQL** interface to serve dataset generated through periodically running jobs on **AWS EMR** [**Apache Spark**, **Node.js, PostgreSQL**].
 
