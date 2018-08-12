@@ -3,7 +3,7 @@ William Truong
 
 [LinkedIn](https://www.linkedin.com/in/william-truong-b1672910)
 
-*Engineering lead, 9+ years experience, with penchant for building expressive and performant software using functional and object oriented principles under system constraints to address business needs. Understands that code is read more than it's written or changed.*
+*Technical Lead Manager, 9+ years experience, with penchant for building expressive and performant software using functional and object oriented principles under system constraints to address business needs. Understands that code is read more than it's written or changed.*
 
 *Currently lead Risk Analytics team into building data pipelines using Apache Spark to perform speedy batch aggregations for reports, and Apache Kafka + Vertica to fuel near real-time dashboards.*
 
@@ -18,14 +18,13 @@ Work and Academic Experience
 ---------------
 
 **Health Fidelity, San Mateo, CA**,  
-Engineering Lead (Jan 2018 - Present)  
-Senior Software Engineer (Oct 2016 - 2017)   
+Technical Lead Manager (Jan 2018 - Present)  
+Senior Software Engineer (Oct 2016 - Dec 2017)   
 
 * Leading Risk Analytics team in designing and building out API to allow physicians to automatically get a list of probable diagnoses for a given patient, given past billing history and clinical notes, by providing a queryable **GraphQL** interface to serve dataset generated through periodically running jobs on **AWS EMR** [**Apache Spark**, **Node.js, PostgreSQL**].
 
 * Build HIPAA compliant multi-tenanted RESTful web services under the **Spring Framework** to assist health insurance plans improve their risk adjustment performance by providing data to indicate gaps in documentation and inferring probable patient medical conditions. Used for KPI dashboards, maps, graphs, and reports. **[Java, JDBC, MySQL, Scala, Apache Spark, Kafka, S3, EMR, CloudFormation]**
-    - As individual contributor, spearheaded effort and educated stakeholders to transition existing data aggregation and batch
-    processing pipeline under **Java, JDBC, and MySQL** to a more performant, scalable, and distributed approach with
+    - As individual contributor, spearheaded effort and educated stakeholders to transition existing data aggregation and batch processing pipeline under **Java, JDBC, and MySQL** to a more performant, scalable, and distributed approach with
     **Scala** and **Apache Spark** to decrease costs and address business need of generating larger reports under a shorter amount of time.
     - Exposed team to a developmental workflow using **Jupyter Notebook** to rapidly prototype out the existing batch processing pipeline to serve as a proof of concept, showing potential to scale as well as having 56x performance gains for 100 gigabyte scale datasets.
   
@@ -37,20 +36,20 @@ Senior Software Engineer (Oct 2016 - 2017)
 * Applied prior working knowledge with bitsets and bitwise logic as an embedded systems engineer to speed up rule matching behavior to take only .05 percent of original time.
 
 **Fluid, San Francisco, CA**,  
-R&D Software Engineer  (Feb 2016 - Sept 2016)
+R&D Software Engineer  (Feb 2016 - Oct 2016)
 
 * Part of Fluid Expert Personal Shopper (XPS), the first e-commerce SaaS solution aimed to supply online retailers with a service recommending products to customers ([1800flowers.com](https://www.1800flowers.com/gwyn-1800flowers), [The North Face](http://www.thenorthface.com/xps)) through conversation by utilizing NLP and Machine Learning techniques under the AWS ecosystem.
     - Built RESTful web services under **Node.js** with **Express** for implementation team to utilize for building frontend single page applications. **[AWS EC2, AWS S3]**
     - Used **AWS Kinesis** to transport click events to **AWS Redshift** for product team to measure add to cart conversion and customer behavior.
     - Created a SGD classifier with text input to characterize products for implementation team to use on customer datasets. **[pandas, scikit-learn, Jupyter Notebook, Elasticsearch]**
 
-**Personal Sabbatical** (Apr 2015 - Feb 2016)
+**Personal Sabbatical** (Apr 2015 - Jan 2016)
 
-* Seized opportunity to take time off prior to moving back to Silicon Valley to pursue dream of traveling Southeast Asia by motorcycle. 
+* Seized opportunity to take time off prior to moving back to Silicon Valley in order to pursue dream of traveling Southeast Asia by motorcycle. 
     - Managed and assessed risk in challenging environments and life threatening situations. 
     - Polished soft skills communicating with people from diverse backgrounds.
 * Enrolled and completed **[Udacity Data Analyst Nanodegree](https://github.com/wllmtrng/udacity_data_analyst_nanodegree)**. 
-    - Exposed to data analysis process of wrangling, exploring, analyzing, classifying, and visualizing data through completing project based work. **[d3.js, R, Python, pandas, scikit-learn, Jupyter Notebook]**
+    - Exposed to data analysis process of wrangling, exploring, analyzing, classifying, and visualizing data through completing project based work **[d3.js, R, Python, pandas, scikit-learn, Jupyter Notebook]**.
 
 **General Atomics Aeronautical Systems Inc.**, Sept 2011 - Apr 2015, (San Diego, CA)  
 Senior Software Engineer  

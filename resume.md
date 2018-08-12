@@ -36,20 +36,20 @@ Senior Software Engineer (Oct 2016 - Dec 2017)
 * Applied prior working knowledge with bitsets and bitwise logic as an embedded systems engineer to speed up rule matching behavior to take only .05 percent of original time.
 
 **Fluid, San Francisco, CA**,  
-R&D Software Engineer  (Feb 2016 - Sept 2016)
+R&D Software Engineer  (Feb 2016 - Oct 2016)
 
 * Part of Fluid Expert Personal Shopper (XPS), the first e-commerce SaaS solution aimed to supply online retailers with a service recommending products to customers ([1800flowers.com](https://www.1800flowers.com/gwyn-1800flowers), [The North Face](http://www.thenorthface.com/xps)) through conversation by utilizing NLP and Machine Learning techniques under the AWS ecosystem.
     - Built RESTful web services under **Node.js** with **Express** for implementation team to utilize for building frontend single page applications. **[AWS EC2, AWS S3]**
     - Used **AWS Kinesis** to transport click events to **AWS Redshift** for product team to measure add to cart conversion and customer behavior.
     - Created a SGD classifier with text input to characterize products for implementation team to use on customer datasets. **[pandas, scikit-learn, Jupyter Notebook, Elasticsearch]**
 
-**Personal Sabbatical** (Apr 2015 - Feb 2016)
+**Personal Sabbatical** (Apr 2015 - Jan 2016)
 
-* Seized opportunity to take time off prior to moving back to Silicon Valley to pursue dream of traveling Southeast Asia by motorcycle. 
+* Seized opportunity to take time off prior to moving back to Silicon Valley in order to pursue dream of traveling Southeast Asia by motorcycle. 
     - Managed and assessed risk in challenging environments and life threatening situations. 
     - Polished soft skills communicating with people from diverse backgrounds.
 * Enrolled and completed **[Udacity Data Analyst Nanodegree](https://github.com/wllmtrng/udacity_data_analyst_nanodegree)**. 
-    - Exposed to data analysis process of wrangling, exploring, analyzing, classifying, and visualizing data through completing project based work. **[d3.js, R, Python, pandas, scikit-learn, Jupyter Notebook]**
+    - Exposed to data analysis process of wrangling, exploring, analyzing, classifying, and visualizing data through completing project based work **[d3.js, R, Python, pandas, scikit-learn, Jupyter Notebook]**.
 
 **General Atomics Aeronautical Systems Inc.**, Sept 2011 - Apr 2015, (San Diego, CA)  
 Senior Software Engineer  
