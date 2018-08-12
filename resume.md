@@ -3,7 +3,7 @@ William Truong
 
 [LinkedIn](https://www.linkedin.com/in/william-truong-b1672910)
 
-*Engineering lead, 9+ years experience, with penchant for building expressive and performant software using functional and object oriented principles under system constraints to address business needs. Understands that code is read more than it's written or changed.*
+*Technical Lead Manager, 9+ years experience, with penchant for building expressive and performant software using functional and object oriented principles under system constraints to address business needs. Understands that code is read more than it's written or changed.*
 
 *Currently lead Risk Analytics team into building data pipelines using Apache Spark to perform speedy batch aggregations for reports, and Apache Kafka + Vertica to fuel near real-time dashboards.*
 
@@ -18,7 +18,7 @@ Work and Academic Experience
 ---------------
 
 **Health Fidelity, San Mateo, CA**,  
-Engineering Lead (Jan 2018 - Present)  
+Technical Lead Manager (Jan 2018 - Present)  
 Senior Software Engineer (Oct 2016 - 2017)   
 
 * Leading Risk Analytics team in designing and building out API to allow physicians to automatically get a list of probable diagnoses for a given patient, given past billing history and clinical notes, by providing a queryable **GraphQL** interface to serve dataset generated through periodically running jobs on **AWS EMR** [**Apache Spark**, **Node.js, PostgreSQL**].
