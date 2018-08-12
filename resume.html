@@ -17,28 +17,30 @@
 </div>
 <div>
 <h1 id="william-truong">William Truong</h1>
-<p><em>Technical lead, 9+ years experience, with a penchant for building expressive and performant software using functional and object oriented principles under system constraints to address business needs. Understands that code is read more than it's written or changed.</em></p>
-<p><em>Currently leading a team building data pipelines using Apache Spark to perform speedy batch aggregations for reports, and Apache Kafka + AWS Redshift to fuel near real-time dashboards.</em></p>
+<p><em>Engineering lead, 9+ years experience, with penchant for building expressive and performant software using functional and object oriented principles under system constraints to address business needs. Understands that code is read more than it's written or changed.</em></p>
+<p><em>Currently lead Risk Analytics team into building data pipelines using Apache Spark to perform speedy batch aggregations for reports, and Apache Kafka + Vertica to fuel near real-time dashboards.</em></p>
+<p><em>Working closely along with product managers to launch new business driven functionalities, while maintaining existing products.</em></p>
 <h2 id="technical-skills">Technical Skills</h2>
 <p><strong>Programming Languages</strong>: Scala, Java 8, Python, Node.js<br />
-<strong>Frameworks and Systems</strong>: Apache Spark, Apache Kafka, PostgreSQL, MySQL, AWS Redshift, Spring, Express, GraphQL, Elasticsearch</p>
+<strong>Frameworks and Systems</strong>: Apache Spark, Apache Kafka, PostgreSQL, MySQL, Vertica, AWS Redshift, Spring, Express, GraphQL, Elasticsearch</p>
 <h2 id="work-and-academic-experience">Work and Academic Experience</h2>
 <p><strong>Health Fidelity, San Mateo, CA</strong>,<br />
-Technical Lead (Jan 2018 - Present)<br />
+Engineering Lead (Jan 2018 - Present)<br />
 Senior Software Engineer (Oct 2016 - 2017)</p>
 <ul>
-<li>Build HIPAA compliant multi-tenanted RESTful web services under the <strong>Spring Framework</strong> to assist healthcare organizations improve their risk adjustment performance by providing data to indicate gaps in documentation and inferring possible patient medical conditions. Used to supply KPI dashboards, maps, graphs, and reports. <strong>[Java, JDBC, MySQL, Scala, Spark, Kafka, S3, EMR, CloudFormation]</strong>
+<li><p>Leading Risk Analytics team in designing and building out API to allow physicians to automatically get a list of probable diagnoses for a given patient, given past billing history and clinical notes, by providing a queryable <strong>GraphQL</strong> interface to serve dataset generated through periodically running jobs on <strong>AWS EMR</strong> [<strong>Apache Spark</strong>, <strong>Node.js, PostgreSQL</strong>].</p></li>
+<li>Build HIPAA compliant multi-tenanted RESTful web services under the <strong>Spring Framework</strong> to assist health insurance plans improve their risk adjustment performance by providing data to indicate gaps in documentation and inferring probable patient medical conditions. Used for KPI dashboards, maps, graphs, and reports. <strong>[Java, JDBC, MySQL, Scala, Apache Spark, Kafka, S3, EMR, CloudFormation]</strong>
 <ul>
-<li>Key contributor to Risk Analytics team spearheading effort to transition existing data aggregation and batch processing functionality under <strong>Java, JDBC, and MySQL</strong> to a more scalable, distributed approach with <strong>Scala and Apache Spark</strong> to decrease costs and address business need of generating larger reports under a shorter amount of time.</li>
-<li>Exposed to team a developmental workflow for rapidly prototyping batch processing functionality to serve as a proof of concept to upper management, showing potential to scale as well as having 56x performance gains for gigabyte scale datasets.</li>
-<li>Work with DevOps and Architect to lay out system architecture for leveraging <strong>Apache Spark</strong> inside <strong>AWS EMR</strong>.</li>
+<li>As individual contributor, spearheaded effort and educated stakeholders to transition existing data aggregation and batch processing pipeline under <strong>Java, JDBC, and MySQL</strong> to a more performant, scalable, and distributed approach with <strong>Scala</strong> and <strong>Apache Spark</strong> to decrease costs and address business need of generating larger reports under a shorter amount of time.</li>
+<li>Exposed team to a developmental workflow using <strong>Jupyter Notebook</strong> to rapidly prototype out the existing batch processing pipeline to serve as a proof of concept, showing potential to scale as well as having 56x performance gains for 100 gigabyte scale datasets.</li>
 </ul></li>
 <li>Took initial ownership of involvement to integrate Risk Analytics platform with new event infrastructure to consume real time events using <strong>Apache Kafka</strong> infrastructure recently rolled out by infrastructure team.
 <ul>
 <li>Built module for utilizing Kafka Streams and Consumers to read events created at customer site to monitor progress and productivity.</li>
 <li>Work very closely with architect and infrastructure team to ensure new Kafka cluster and event infrastructure is ready for production by providing constructive feedback from downstream consumer's point of view.</li>
+<li>Work with product team to model behavior of the events generated from the producing application into several state transition diagrams to be used in <strong>Vertica</strong> data warehouse.</li>
 </ul></li>
-<li>Applied prior working knowledge with bitsets and bitwise logic as an embedded systems engineer to speed up rule matching behavior to take only .05 percent of original time.</li>
+<li><p>Applied prior working knowledge with bitsets and bitwise logic as an embedded systems engineer to speed up rule matching behavior to take only .05 percent of original time.</p></li>
 </ul>
 <p><strong>Fluid, San Francisco, CA</strong>,<br />
 R&amp;D Software Engineer (Feb 2016 - Sept 2016)</p>
@@ -46,8 +48,8 @@ R&amp;D Software Engineer (Feb 2016 - Sept 2016)</p>
 <li>Part of Fluid Expert Personal Shopper (XPS), the first e-commerce SaaS solution aimed to supply online retailers with a service recommending products to customers (<a href="https://www.1800flowers.com/gwyn-1800flowers">1800flowers.com</a>, <a href="http://www.thenorthface.com/xps">The North Face</a>) through conversation by utilizing NLP and Machine Learning techniques under the AWS ecosystem.
 <ul>
 <li>Built RESTful web services under <strong>Node.js</strong> with <strong>Express</strong> for implementation team to utilize for building frontend single page applications. <strong>[AWS EC2, AWS S3]</strong></li>
-<li>Conceptualized and launched into production the use of AWS's managed <strong>Elasticsearch</strong> offering to take advantage of Lucene's abilities in handling unstructured text and relevance scoring. <strong>[AWS CloudFormation]</strong></li>
-<li>Created a SGD classifier with text input to characterize products for implementation team to use on customer datasets. <strong>[pandas, scikit-learn, Jupyter Notebook]</strong></li>
+<li>Used <strong>AWS Kinesis</strong> to transport click events to <strong>AWS Redshift</strong> for product team to measure add to cart conversion and customer behavior.</li>
+<li>Created a SGD classifier with text input to characterize products for implementation team to use on customer datasets. <strong>[pandas, scikit-learn, Jupyter Notebook, Elasticsearch]</strong></li>
 </ul></li>
 </ul>
 <p><strong>Personal Sabbatical</strong> (Apr 2015 - Feb 2016)</p>
@@ -62,13 +64,12 @@ R&amp;D Software Engineer (Feb 2016 - Sept 2016)</p>
 <li>Exposed to data analysis process of wrangling, exploring, analyzing, classifying, and visualizing data through completing project based work. <strong>[d3.js, R, Python, pandas, scikit-learn, Jupyter Notebook]</strong></li>
 </ul></li>
 </ul>
-<p>Senior Software Engineer<br />
-<strong>General Atomics Aeronautical Systems Inc.</strong>, Sept 2011 - Apr 2015, (San Diego, CA)</p>
+<p><strong>General Atomics Aeronautical Systems Inc.</strong>, Sept 2011 - Apr 2015, (San Diego, CA)<br />
+Senior Software Engineer</p>
 <ul>
 <li><p>Worked with project engineers, vendors, and customers to create system and software level requirements, storyboard proposals for new features, define new software interfaces, write system test procedures, and implement software for flight and ground components in several unmanned aerial systems under the service oriented architecture paradigm <strong>[C/C++, Python, POSIX, Linux, VxWorks, MIL-STD-1553, TCP/IP, Pthreads, Qt, X11/Motif, XML]</strong>.</p></li>
 <li><em>Technical Lead, MQ-9 AFSOC, Jan 2014 - Apr 2015</em>
 <ul>
-<li>One of two software leads in a new team of 10+, formed to increase MQ-9's multi-mission capabilities in regards to increased flight endurance, decreased takeoff time, additional weapon support, and new ISR platforms for AFSOC.</li>
 <li>Within one year, software team fielded 3 major system releases under 6 month release cycles, as opposed to previous team working on traditional 1-2 year release cycle, with one release being a finalist in Aviation Week Program of Excellence Awards, 2015.</li>
 <li>Spearheaded effort to refactor a flawed design with touch system responsible for multiplexing mission critical video sources on ground control system by using MVC and OO principles <strong>[Linux, POSIX sockets, sigslot, X11/motif, C/C++]</strong>.</li>
 </ul></li>
@@ -78,25 +79,15 @@ R&amp;D Software Engineer (Feb 2016 - Sept 2016)</p>
 </ul></li>
 <li><p><em>Developer, MQ-1 US Air Force UAV Team, Sept 2011 - Apr 2012 (Under Contract), Apr 2012 - Oct 2013</em></p></li>
 </ul>
-<p>Software Engineer<br />
-<strong>Northrop Grumman Information Systems</strong>, Jan 2009 - Sept 2011, (Sacramento, CA)</p>
+<p><strong>Northrop Grumman Information Systems</strong>, Jan 2009 - Sept 2011, (Sacramento, CA)<br />
+Technical Lead (Jan 2011 - Sept 2011)<br />
+Software Engineer (Jan 2009 - Dec 2010)</p>
 <ul>
-<li><em>Technical Lead, ELINT (Electronic Intelligence) Subsystem, Jan 2011 - Sept 2011</em>
-<ul>
-<li>Worked closely with program management, system engineers, electrical engineers, sensor operators, and integration team to field last release of ELINT subsystem under Guardrail Modernization contract.</li>
-</ul></li>
-<li><em>Software Engineer, ELINT Subsystem, Jan 2009 - Jan 2011</em>
-<ul>
-<li>Created and maintained applications under the service oriented architecture paradigm to allow sensors on multiple aircraft to survey, collect, and aggregate data in real time through line of sight communications <strong>[C/C++, Pthreads, TCP/IP, DNS-SD, yacc, lex]</strong>.</li>
-</ul></li>
+<li><p>Worked closely with program management, system engineers, electrical engineers, sensor operators, and integration team to field last release of ELINT subsystem under Guardrail Modernization contract.</p></li>
+<li><p>Created and maintained applications under the service oriented architecture paradigm to allow sensors on multiple aircraft to survey, collect, and aggregate data in real time through line of sight communications <strong>[C/C++, Pthreads, TCP/IP, DNS-SD, yacc, lex]</strong>.</p></li>
 </ul>
 <h2 id="certifications">Certifications</h2>
-<p><strong><a href="https://www.coursera.org/account/accomplishments/verify/QUN9C3NZAV75">Big Data Analysis with Scala and Spark</a></strong>, <em>École Polytechnique Fédérale de Lausanne on Coursera</em>, Apr 2017</p>
-<p><strong><a href="https://confirm.udacity.com/LCJRQVJ5">Data Analyst Nanodegree</a></strong>, <em>Udacity</em>, Aug 2016</p>
-<ul>
-<li>Data Munging, Exploratory Data Analysis, Classification, Data Visualization, A/B Testing</li>
-</ul>
-<p><strong><a href="https://www.coursera.org/account/accomplishments/records/9TD6VCPP7TAC">Machine Learning</a></strong>, <em>Stanford University on Coursera</em>, Jan 2016</p>
+<p><strong><a href="https://www.coursera.org/account/accomplishments/verify/QUN9C3NZAV75">Big Data Analysis with Scala and Spark</a></strong>, <em>École Polytechnique Fédérale de Lausanne on Coursera</em>, Apr 2017 <strong>+</strong> <strong><a href="https://confirm.udacity.com/LCJRQVJ5">Data Analyst Nanodegree</a></strong>, <em>Udacity</em>, Aug 2016 <strong>+</strong> <strong><a href="https://www.coursera.org/account/accomplishments/records/9TD6VCPP7TAC">Machine Learning</a></strong>, <em>Stanford University on Coursera</em>, Jan 2016.</p>
 <h2 id="education">Education</h2>
 <strong>B.S., Computer Science</strong>, <em>University Of California, Davis</em>, 2009
 </div>
