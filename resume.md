@@ -8,13 +8,14 @@ Work Experience
 
 **Health Fidelity, San Mateo, CA**,  
 Technical Lead Manager (Jan 2018 - Present)  
-Senior Software Engineer (Oct 2016 - Dec 2017)   
 
 * Leading Risk Analytics team in designing and building out API to allow physicians to automatically get a list of probable diagnoses for a given patient, given past billing history and clinical notes, by providing a queryable **GraphQL** interface to serve dataset generated through periodically running jobs on **AWS EMR** [**Apache Spark**, **Node.js, PostgreSQL**].
 
 * Strategize with product management to prioritize product roadmap, juggling between maintaining existing product line and guiding direct reports to build pilot applications for the purpose of exploring new market segments.
 
 * Interview candidates for junior and senior software engineer positions and hire based on growth potential, technical ability, and cultural fit.
+
+Senior Software Engineer (Oct 2016 - Dec 2017)   
 
 * Build HIPAA compliant multi-tenanted RESTful web services under the **Spring Framework** to assist health insurance plans improve their risk adjustment performance by providing data to indicate gaps in documentation and inferring probable patient medical conditions. Used for KPI dashboards, maps, graphs, and reports. **[Java, JDBC, MySQL, Scala, Apache Spark, Kafka, S3, EMR, CloudFormation]**
     - As individual contributor, spearheaded effort and educated stakeholders to transition existing data aggregation and batch processing pipeline under **Java, JDBC, and MySQL** to a more performant, scalable, and distributed approach with
