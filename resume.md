@@ -22,6 +22,7 @@ Senior Software Engineer (Oct 2016 - Dec 2017)
     **Scala** and **Apache Spark** to decrease costs and address business need of generating larger reports under a shorter amount of time.
     - Exposed team to a developmental workflow using **Jupyter Notebook** to rapidly prototype out the existing batch processing pipeline to serve as a proof of concept, showing potential to scale as well as having 56x performance gains for 100 gigabyte scale datasets.
   
+  
 * Took initial ownership of involvement to integrate Risk Analytics platform with new event infrastructure to consume real time events using **Apache Kafka** infrastructure recently rolled out by infrastructure team.
     - Built module for utilizing Kafka Streams and Consumers to read events created at customer site to monitor progress and productivity.
     - Work very closely with architect and infrastructure team to ensure new Kafka cluster and event infrastructure is ready for production by providing constructive feedback from downstream consumer's point of view.

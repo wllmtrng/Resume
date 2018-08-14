@@ -8,7 +8,6 @@ Work Experience
 
 **Health Fidelity, San Mateo, CA**,  
 Technical Lead Manager (Jan 2018 - Present)  
-Senior Software Engineer (Oct 2016 - Dec 2017)   
 
 * Leading Risk Analytics team in designing and building out API to allow physicians to automatically get a list of probable diagnoses for a given patient, given past billing history and clinical notes, by providing a queryable **GraphQL** interface to serve dataset generated through periodically running jobs on **AWS EMR** [**Apache Spark**, **Node.js, PostgreSQL**].
 
@@ -16,10 +15,13 @@ Senior Software Engineer (Oct 2016 - Dec 2017)
 
 * Interview candidates for junior and senior software engineer positions and hire based on growth potential, technical ability, and cultural fit.
 
+Senior Software Engineer (Oct 2016 - Dec 2017)   
+
 * Build HIPAA compliant multi-tenanted RESTful web services under the **Spring Framework** to assist health insurance plans improve their risk adjustment performance by providing data to indicate gaps in documentation and inferring probable patient medical conditions. Used for KPI dashboards, maps, graphs, and reports. **[Java, JDBC, MySQL, Scala, Apache Spark, Kafka, S3, EMR, CloudFormation]**
     - As individual contributor, spearheaded effort and educated stakeholders to transition existing data aggregation and batch processing pipeline under **Java, JDBC, and MySQL** to a more performant, scalable, and distributed approach with
     **Scala** and **Apache Spark** to decrease costs and address business need of generating larger reports under a shorter amount of time.
     - Exposed team to a developmental workflow using **Jupyter Notebook** to rapidly prototype out the existing batch processing pipeline to serve as a proof of concept, showing potential to scale as well as having 56x performance gains for 100 gigabyte scale datasets.
+  
   
 * Took initial ownership of involvement to integrate Risk Analytics platform with new event infrastructure to consume real time events using **Apache Kafka** infrastructure recently rolled out by infrastructure team.
     - Built module for utilizing Kafka Streams and Consumers to read events created at customer site to monitor progress and productivity.
