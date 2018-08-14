@@ -3,18 +3,7 @@ William Truong
 
 [LinkedIn](https://www.linkedin.com/in/william-truong-b1672910)
 
-*Technical Lead Manager, 9+ years experience, with penchant for building expressive and performant software using functional and object oriented principles under system constraints to address business needs. Understands that code is read more than it's written or changed.*
-
-*Currently leading Risk Analytics team into building data pipelines using Apache Spark to perform speedy batch aggregations for reports, and Apache Kafka + Vertica to fuel near real-time dashboards.*
-
-*Working closely along with product managers to launch new business driven functionalities, while maintaining existing products.*
-
-Technical Skills
------------------
-**Programming Languages**: Scala, Java 8, Python, Node.js  
-**Frameworks and Systems**: Apache Spark, Apache Kafka, PostgreSQL, MySQL, Vertica, AWS Redshift, Spring, Express, GraphQL, Elasticsearch   
-
-Work and Academic Experience
+Work Experience
 ---------------
 
 **Health Fidelity, San Mateo, CA**,  
@@ -22,6 +11,10 @@ Technical Lead Manager (Jan 2018 - Present)
 Senior Software Engineer (Oct 2016 - Dec 2017)   
 
 * Leading Risk Analytics team in designing and building out API to allow physicians to automatically get a list of probable diagnoses for a given patient, given past billing history and clinical notes, by providing a queryable **GraphQL** interface to serve dataset generated through periodically running jobs on **AWS EMR** [**Apache Spark**, **Node.js, PostgreSQL**].
+
+* Strategize with product management to prioritize product roadmap, juggling between maintaining existing product line and guiding direct reports to build pilot applications for the purpose of exploring new market segments.
+
+* Interview candidates for junior and senior software engineer positions and hire based on growth potential, technical ability, and cultural fit.
 
 * Build HIPAA compliant multi-tenanted RESTful web services under the **Spring Framework** to assist health insurance plans improve their risk adjustment performance by providing data to indicate gaps in documentation and inferring probable patient medical conditions. Used for KPI dashboards, maps, graphs, and reports. **[Java, JDBC, MySQL, Scala, Apache Spark, Kafka, S3, EMR, CloudFormation]**
     - As individual contributor, spearheaded effort and educated stakeholders to transition existing data aggregation and batch processing pipeline under **Java, JDBC, and MySQL** to a more performant, scalable, and distributed approach with
@@ -74,6 +67,11 @@ Software Engineer (Jan 2009 - Dec 2010)
 * Worked closely with program management, system engineers, electrical engineers, sensor operators, and integration team to field last release of ELINT subsystem under Guardrail Modernization contract.
 
 * Created and maintained applications under the service oriented architecture paradigm to allow sensors on multiple aircraft to survey, collect, and aggregate data in real time through line of sight communications **[C/C++, Pthreads, TCP/IP, DNS-SD, yacc, lex]**.
+
+Technical Skills
+-----------------
+**Programming Languages**: Scala, Java 8, Python, Node.js  
+**Frameworks and Systems**: Apache Spark, Apache Kafka, PostgreSQL, MySQL, Vertica, AWS Redshift, Spring, Express, GraphQL, Elasticsearch   
 
 Certifications
 ---------
