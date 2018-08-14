@@ -10,7 +10,7 @@ Work Experience
 Technical Lead Manager (Jan 2018 - Present)  
 Senior Software Engineer (Oct 2016 - Dec 2017)   
 
-* Management Responsibilities
+* Managerial Responsibilities
     - Leading Risk Analytics team in designing and building out API to allow physicians to automatically get a list of probable diagnoses for a given patient, given past billing history and clinical notes, by providing a queryable **GraphQL** interface to serve dataset generated through periodically running jobs on **AWS EMR** [**Apache Spark**, **Node.js, PostgreSQL**].
     - Strategize with product management to prioritize product roadmap, juggling between maintaining existing product line and guiding direct reports to build pilot applications for the purpose of exploring new market segments.
     - Interview candidates for junior and senior software engineer positions and hire based on growth potential, technical ability, and cultural fit.
