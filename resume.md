@@ -15,7 +15,7 @@ Senior Software Engineer (Oct 2016 - Dec 2017)
     - Guide senior software engineer to utilize **AWS Redshift** as a data warehouse to store click-based events for the purposes of reporting and serving KPI dashboards.
     - Strategize with product team to prioritize product roadmap, juggling between maintaining existing product line and implementing new functional requirements.
     - Interview candidates for junior and senior software engineer positions and hire based on growth potential, technical ability, and cultural fit.
-    - Mentor junior software engineers by pair programming, reviewing work, providing feedback, and guiding them to find the right solution for a given problem. 
+    - Mentor software engineers by pair programming, reviewing work, providing feedback, and guiding them to find the right solution for a given problem. 
 * Technical Duties
     - Build HIPAA compliant multi-tenanted RESTful web services under the **Spring Framework** to assist health insurance plans to improve their risk adjustment performance analyzing administrative and clinical patient data through batch processing to find gaps in care for the patient and identify patient risk for the insurance plan, which is communicated through KPI dashboards, maps, graphs, and reports. **[Java, JDBC, MySQL, Scala, Apache Spark, Kafka, S3, EMR, CloudFormation]**
 * Highlights
