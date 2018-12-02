@@ -13,7 +13,7 @@ Senior Software Engineer (Oct 2016 - Dec 2017)
 * Managerial Responsibilities
     - Lead Risk Analytics team in designing and building out an API to allow physicians to automatically get a list of probable diagnoses for a given patient, given past billing history and clinical notes, by providing a queryable **GraphQL** interface to serve dataset generated through periodically running jobs on **AWS EMR** [**Apache Spark**, **Node.js, PostgreSQL**].
     - Guide senior software engineer to utilize **AWS Redshift** as a data warehouse to store click-based events for the purposes of reporting and serving KPI dashboards.
-    - Strategize with product management to prioritize product roadmap, juggling between maintaining existing product line and implementing new functional requirements.
+    - Strategize with product team to prioritize product roadmap, juggling between maintaining existing product line and implementing new functional requirements.
     - Interview candidates for junior and senior software engineer positions and hire based on growth potential, technical ability, and cultural fit.
     - Mentor junior software engineers by pair programming, reviewing work, providing feedback, and guiding them to find the right solution for a given problem. 
 * Technical Duties
