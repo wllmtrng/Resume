@@ -1,7 +1,7 @@
 William Truong
 ================
 
-[LinkedIn](https://www.linkedin.com/in/william-truong-b1672910)
+[LinkedIn](https://www.linkedin.com/in/will-truong-b1672910/)
 
 Work Experience
 ---------------
